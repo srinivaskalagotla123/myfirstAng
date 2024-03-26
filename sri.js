@@ -1,2 +1,2 @@
 var a=20;
-console.log('sri';)
+console.log('sri');
